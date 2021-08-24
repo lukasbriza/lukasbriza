@@ -18,9 +18,17 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li>:email: lukasbriza@seznam.cz</li>
-  <li><a href="https://stackoverflow.com/users/lukasbriza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lukasbriza" height="15" width="15" bottom="0" /></a><p>lukasbriza</p></li>
+  <li><a class="ref" href="https://stackoverflow.com/users/lukasbriza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lukasbriza" height="15" width="15" bottom="0" /></a><p>lukasbriza</p></li>
 </ul>
 
+<style>
+  .ref{
+    display: inline-block;
+  }
+  .ref p{
+    display: inline-block;
+  }
+</style>
 <p align="left">
 
 
