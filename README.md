@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li>:email: lukasbriza@seznam.cz</li>
-  <li><p><a class="ref" href="https://stackoverflow.com/users/lukasbriza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lukasbriza" height="15" width="15" bottom="0" /></a>lukasbriza</p></li>
+  <li><p><a class="ref" href="https://stackoverflow.com/users/lukasbriza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lukasbriza" height="15" width="15" bottom="0" /></a> lukasbriza</p></li>
 </ul>
 
 
