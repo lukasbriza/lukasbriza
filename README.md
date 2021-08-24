@@ -22,6 +22,7 @@
 </ul>
 
 <style>
+  li{display:flex}
   .ref{
     display: inline-block;
   }
