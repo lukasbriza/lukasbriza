@@ -4,9 +4,10 @@
 <p>I´m frontend developer with passion to write clean and understandable code.</p>
 <p align="left">Mostly I like to work on projects which are closest to my areas of interest:</p>
 <ul>
-  <li>Cryptocurrency</li>
-  <li>Finance</li>
-  <li>Sport</li>
+  <li><img alt="btc" src="./assets/btc.png" />Cryptocurrency</li>
+  <li>:money_with_wings: Finance</li>
+  <li>:tv: Movies</li>
+  <li>:runner: Sport</li>
   <li>Games</li>
 </ul>
 
