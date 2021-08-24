@@ -8,7 +8,7 @@
   <li>:money_with_wings: Finance</li>
   <li>:tv: Movies</li>
   <li>:runner: Sport</li>
-  <li>Games</li>
+  <li>:video_game: Games</li>
 </ul>
 
 
