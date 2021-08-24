@@ -1,4 +1,4 @@
-[![lukasbriza's GitHub Banner](./assets/logo.png)]
+![lukasbriza's GitHub Banner](./assets/logo.png)
 <h1 align="center">Hi 👋, I'm Lukas Briza</h1>
 <h3 align="center">I´m passionate frondend developer from Czech Republic with interest in games and hookah.</h3>
 
