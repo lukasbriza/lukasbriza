@@ -1,5 +1,5 @@
 ![lukasbriza's GitHub Banner](./assets/logo.png)
-<h1 align="center">Hi, I'm Lukas Briza</h1>
+<h1 align="center">Hi :hand: , I'm Lukas Briza</h1>
 
 <p>I´m frontend developer with passion to write clean and understandable code.</p>
 <p align="left">Mostly I like to work on projects which are closest to my areas of interest:</p>
