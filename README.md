@@ -1,6 +1,12 @@
 ![lukasbriza's GitHub Banner](./assets/logo.png)
 <h1 align="center">Hi, I'm Lukas Briza</h1>
 
+<p>I´m frontend developer with passion in writing code.</p>
+<p>Mostly I like to work on projects which are closest to my areas of interest:</p>
+<ul>
+  <li>Cryptocurrency</li>
+</ul>
+
 
 
 <h3 align="left">Connect with me:</h3>
