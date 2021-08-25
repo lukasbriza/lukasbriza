@@ -11,7 +11,7 @@
   <li>:video_game: Games</li>
 </ul>
 
-<p align="left">Coding and web development is my passion. I love to look for ways and innovations which help me to improve my code.
+<p align="left">Coding and web development is my passion. I love to look for for innovations which helps me to improve my code.
   If you´re searching for some colleagues to your projects, dont´t hesitate to contact me.</p>
 
 -----------------------------------------
