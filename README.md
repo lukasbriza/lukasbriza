@@ -1,4 +1,4 @@
-![lukasbriza's GitHub Banner](./assets/logo.png)
+![lukasbriza's GitHub Banner](./assets/logo.jpg)
 <h1 align="center">Hi :wave: , I'm Lukas Briza</h1>
 
 <p align="left">I´m frontend developer with passion to write clean and understandable code.
