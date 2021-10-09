@@ -40,6 +40,7 @@
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"      height="40"/> </a>
     <a href="https://animejs.com/" target="_blank"> <img src="./assets/animeJS.jpg" alt="animejs" width="40" height="40"/> </a>
     <a href="https://greensock.com/gsap" target="_blank"> <img src="./assets/gsap.png" alt="gsap" width="40" height="40"/> </a>
+    <a href="https://barba.js.org/" target="_blank"> <img src="./assets/barba.svg" alt="barbajs" width="60" height="40"/> </a>
 </p>
 <p align="left">
 <h3 align="left">Databases:</h3>
